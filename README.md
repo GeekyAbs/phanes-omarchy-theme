@@ -6,7 +6,7 @@ A stunning liquid-inspired Omarchy theme featuring glacial blues, aquamarine acc
 
 ## 🌊 Overview
 
-**Tahoe Liquid** is a custom Omarchy theme that transforms your desktop into a serene, liquid-themed workspace. With heavy blur effects, gradient borders, and a carefully crafted color palette inspired by alpine waters, this theme offers a perfect balance between visual appeal and productivity.
+**Phanes** is a custom Omarchy theme that transforms your desktop into a serene, liquid-themed workspace. With heavy blur effects, gradient borders, and a carefully crafted color palette inspired by alpine waters, this theme offers a perfect balance between visual appeal and productivity.
 
 ### ✨ Key Features
 
@@ -14,7 +14,7 @@ A stunning liquid-inspired Omarchy theme featuring glacial blues, aquamarine acc
 - **Gradient Borders**: Dynamic aquamarine-to-purple gradients on active windows
 - **Cohesive Color Palette**: Ice whites, deep sapphires, and vibrant cyans throughout all components
 - **Smooth Animations**: Fluid bezier curves for a liquid-like motion feel
-- **Complete Integration**: Themed components for Hyprland, Waybar, Alacritty, Kitty, Neovim, Mako, Walker, Hyprlock, and more
+- **Complete Integration**: Themed components for Hyprland, Waybar, Alacritty, Kitty, Hyprlock, and more
 
 ## 🎨 Color Palette
 
@@ -113,13 +113,12 @@ background_opacity 0.75  # Adjust between 0.60-0.95
 
 ## 🙏 Credits
 
-This theme is based on the original work by **[Abhijeet Swami](https://github.com/abhijeet-swami)**, who created the foundational Ayaka theme for Omarchy. Tahoe Liquid is a fork and significant evolution of that work, featuring:
+This theme is based on the original work by **[Abhijeet Swami](https://github.com/abhijeet-swami)**, who created the foundational Ayaka theme for Omarchy. **Phanes** is a fork and a personal evolution of that work, featuring:
 
 - Redesigned color palette inspired by alpine waters
 - Enhanced glassmorphism and blur effects
 - New gradient borders and animations
 - Expanded component coverage
-- Custom Neovim colorscheme
 
 Original inspiration: [omarchy-ayaka-theme](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
 
